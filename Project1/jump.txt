@@ -1,0 +1,11 @@
+ADD 1, $1023, $1
+JMP 7
+ASS 2,$2
+ASS 3,$3
+ASS 4,$4
+ASS 5,$5
+ASS 6,$6
+ASS 7,$7
+JMP 10
+ASS 8,$8
+ASS 9,$9
